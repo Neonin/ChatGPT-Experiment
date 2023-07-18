@@ -1,0 +1,16 @@
+{
+  "welcome": "Bienvenue dans notre application !",
+  "title": {
+    "formatDateTime": "Date et heure formatées",
+    "formatNumbers": "Nombre formaté",
+    "converterUOM": "Convertisseur d'unités de mesure"
+  },
+  "conversion": {
+    "inchToCm": "{{value}} pouces équivaut à {{result}} centimètres",
+    "cmToInch": "{{value}} centimètres équivaut à {{result}} pouces",
+    "poundToKg": "{{value}} livres équivaut à {{result}} kilogrammes",
+    "kgToPound": "{{value}} kilogrammes équivaut à {{result}} livres",
+    "literToOz": "{{value}} litres équivaut à {{result}} onces",
+    "ozToLiter": "{{value}} onces équivaut à {{result}} litres"
+  }
+}

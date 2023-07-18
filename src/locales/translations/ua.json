@@ -1,0 +1,16 @@
+{
+  "welcome": "Ласкаво просимо в наш додаток!",
+  "title": {
+    "formatDateTime": "Відформатована дата та час",
+    "formatNumbers": "Відформатована дата",
+    "converterUOM": "Конвертер одиниць вимірювання"
+  },
+  "conversion": {
+    "inchToCm": "{{value}} дюймів дорівнює {{result}} сантиметрів",
+    "cmToInch": "{{value}} сантиметрів дорівнює {{result}} дюймів",
+    "poundToKg": "{{value}} фунтів дорівнює {{result}} кілограмів",
+    "kgToPound": "{{value}} кілограмів дорівнює {{result}} фунтів",
+    "literToOz": "{{value}} літрів дорівнює {{result}} унцій",
+    "ozToLiter": "{{value}} унцій дорівнює {{result}} літрів"
+  }
+}

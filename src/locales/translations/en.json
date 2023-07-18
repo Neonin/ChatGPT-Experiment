@@ -1,0 +1,16 @@
+{
+  "welcome": "Welcome to our app!",
+  "title": {
+    "formatDateTime": "Formatted date and time",
+    "formatNumbers": "Formatted numbers",
+    "converterUOM": "Unit of measurement converter"
+  },
+  "conversion": {
+    "inchToCm": "{{value}} inches is {{result}} centimeters",
+    "cmToInch": "{{value}} centimeters is {{result}} inches",
+    "poundToKg": "{{value}} pounds is {{result}} kilograms",
+    "kgToPound": "{{value}} kilograms is {{result}} pounds",
+    "literToOz": "{{value}} liters is {{result}} ounces",
+    "ozToLiter": "{{value}} ounces is {{result}} liters"
+  }
+}

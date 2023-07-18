@@ -1,0 +1,30 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    padding: 0 16px;
+}
+
+.card {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    border: 1px solid var(--secondary-color);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+    padding: 16px;
+    margin: 16px;
+}
