@@ -1,18 +1,26 @@
-# Getting Started with Create React App
+ChatGPT-Experiment
+==================
+This application is a front-end project that implements internationalization (i18n) using React,
+the popular JavaScript library for building user interfaces,
+and i18next, a robust framework for translating web content.
+Our application provides a simple, user-friendly interface for converting and displaying various units of measurement,
+such as inches to centimeters, pounds to kilograms, and liters to ounces.
+It also allows users to format numbers in a local-specific way.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+One of the main features of this application is the ability to switch between different locales.
+The application currently supports English, French, and Ukrainian.
+It demonstrates how to use the react-i18next library
+to translate text and format numbers in a way that's appropriate for the selected locale.
 
-## Available Scripts
+### Running the application locally
+Install the necessary packages using `npm install`.
+Once the installation is complete, you can start the application using `npm start`.
+The application will start, and you can access it at http://localhost:3000.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Changing Locale
+- You can switch the application's language by clicking on the language selector provided in the interface.
+- The language selector is located in the top right corner of the application.
+____
 
 ### `npm test`
 
